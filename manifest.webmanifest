@@ -1,0 +1,21 @@
+{
+  "name": "Listeo",
+  "short_name": "Listeo",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#8BC34A",
+  "description": "Listes de courses par magasin, rayons, favoris, prix et sauvegarde locale.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
