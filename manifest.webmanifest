@@ -6,7 +6,7 @@
   "display": "standalone",
   "background_color": "#f4f6f3",
   "theme_color": "#7CB342",
-  "description": "Listes de courses par magasin avec sauvegarde locale.",
+  "description": "Listes de courses avec ajout rapide de produits dès les premières lettres.",
   "icons": [
     {
       "src": "icons/icon-192.png",
